@@ -27,3 +27,5 @@ odin-recipes/
 ## What I Learned
 This project helped reinforce the importance of clean file structure, correct linking, and understanding how separate pages connect within a website. It also strengthened my confidence using Git and GitHub for project management.
 This project is intentionally simple and serves as a foundation for upcoming CSS and layout-focused projects.
+
+##Project Live Link:https://sayalikale318.github.io/odin-recipes/
